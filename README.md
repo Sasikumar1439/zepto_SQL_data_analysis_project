@@ -1,7 +1,5 @@
 # zepto_SQL_data_analysis_project
 SQL-based data analysis project on Zepto grocery dataset using MySQL. Includes data cleaning, EDA, inventory analysis, revenue insights, discount analysis, and business-focused SQL queries.
-# Zepto SQL Data Analysis Project
-
 ## Overview
 
 This project focuses on analyzing Zepto grocery product data using MySQL.
